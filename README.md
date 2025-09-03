@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This is a fully responsive, single-pag
 ---
 
 ## 🔗 Live Demo
-👉 [Visit My Portfolio](https://bhaskar-s04.github.io/portfolio-website/)
+👉 [Visit My Portfolio](https://bhaskar-s04.github.io/BhaskarPortfolio/)
 
 ---
 
